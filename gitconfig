@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ammaramin78@gmail.com
+	name = Ammar Amin
